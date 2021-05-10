@@ -9,7 +9,8 @@ We were given the task to analyze student grades from different high schools. Fo
 
 ## Results
 
-* District level effect of removing potentially dishonest scores: Thomas High School moves on average, from Math scores of 83.42 to 83.35. and reading scores move from 83.85 to 83.9. This removal decreases the district level scores.
+* District level effect of removing potentially dishonest scores on Thomas High School: 
+** The move average, from Math scores of 83.42 to 83.35 and reading scores move from 83.85 to 83.9. This removal decreases the district level scores.
 
 ![No filter THS](Resources/THS_no_filter.PNG)
 

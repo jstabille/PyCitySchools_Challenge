@@ -6,9 +6,7 @@ We were given the task to analyze student grades from different high schools. Fo
 
 * Many Correlations were conducted, although the mechanism for causality is not in the scope of this project. As part of this analysis, we removed certain data that appeared to be academic dishonesty. This created variance from the data pre-removal.
 
-
 ## Results
-
 
 ![Results_Graphic](Resources/Thomas_High_School.png)
 
@@ -22,4 +20,4 @@ We were given the task to analyze student grades from different high schools. Fo
 ## Summary
 Once the results have been modified to control for potential academic dishonesty, we lost any data for the 9th grade at Thomas High School. The average scores for the district were not strongly shifted, but it decreases district-level scores slightly. 
 
-This analysis shifts entirely future models and expectations for the 9th-grade class since these scores are not to be trusted. The potential academic dishonesty reduces confidence in the administration and future scoring of Thomas High School. 
+This analysis shifts entirely future models and expectations for the 9th-grade class since these scores are not accurate. The potential academic dishonesty reduces confidence in the administration and future scoring of Thomas High School. 
